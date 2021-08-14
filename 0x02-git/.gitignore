@@ -1,1 +1,1 @@
-git config --global core.excludesFile ~/.gitignore
+$ git rm -r --cached ~
